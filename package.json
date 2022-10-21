@@ -1,0 +1,11 @@
+{
+    "name": "com.google.ads.mobile",
+    "displayName": "Admob",
+    "description": "Admob",
+    "version": "7.2.0",
+    "unity": "2017.4",
+    "author": {
+      "name": "Google LLC",
+      "url": "https://developers.google.com/admob/unity/quick-start"
+    }
+  }
