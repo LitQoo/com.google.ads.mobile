@@ -1,6 +1,42 @@
 Google Mobile Ads Unity Plugin Change Log
 
 **************
+Version 7.4.1
+**************
+
+Plugin:
+- Added support for GMA iOS SDK v10. Requires using Google Mobile Ads iOS SDK v10.0 or higher.
+
+**************
+Version 7.4.0
+**************
+
+Plugin:
+- Added OnAdClicked and OnAdImpressionRecorded events to BannerView.
+- Updated all ad format APIs to have consistent nomenclature.
+- Added new InterstitialAd.OnAdClicked event to interstitial ads.
+- Added new InterstitialAd.Load() API for loading interstitial ads.
+- Added new InterstitialAd.CanShowAd() API for checking interstitial ad state.
+- Added new RewardedAd.OnAdClicked event to rewarded ads.
+- Added new RewardedAd.Load() API for loading rewarded ads.
+- Added new RewardedAd.CanShowAd() API for checking rewarded ad state.
+- Added new RewardedInterstitialAd.OnAdClicked event to rewarded interstitial ads.
+- Added new RewardedInterstitialAd.Load() API for loading rewarded interstitial ads.
+- Added new RewardedInterstitialAd.CanShowAd() API for checking rewarded interstitial ad state.
+- Added new AppOpenAd.OnAdClicked event to app open ads.
+- Added new AppOpenAd.Load() API for loading app open  ads.
+- Added new AppOpenAd.CanShowAd() API for checking app open ad state.
+- Fixed [#2453] and [#2450] XCode build error when using iOS SDK 9.14.0 or greater.
+- Added User Messaging Platform (UMP) APIs.
+
+**************
+Version 7.3.1
+**************
+
+Plugin:
+- Fixed [#1799](https://github.com/googleads/googleads-mobile-unity/issues/1799) RewardedAd OnAdFailedToPresentFullScreenContent called twice.
+
+**************
 Version 7.3.0
 **************
 
@@ -60,7 +96,7 @@ Plugin:
 - Fixed Github issue [1943](https://github.com/googleads/googleads-mobile-unity/issues/1943) related App Id saving.
 - Fixed Github issue [2001](https://github.com/googleads/googleads-mobile-unity/issues/2001) related to Android manifest.
 - Fixed Github issue [2003](https://github.com/googleads/googleads-mobile-unity/issues/2003) related to Ad Inspector crash.
-- Added Dummy AdInspector for Unity editor.
+- Added placeholder AdInspector for Unity editor.
 
 Built and tested with:
 - Google Play services 20.2.0
@@ -562,7 +598,7 @@ Plugin:
 - Updated Android ad events to be invoked on the main thread.
 - Added `MobileAds.SetiOSAppPauseOnBackground()` method to pause iOS apps when
 displaying full screen ads.
-- Fixed issue were banners repositioned incorrectly following an orienation
+- Fixed issue were banners repositioned incorrectly following an orientation
 change.
 
 Mediation packages:
@@ -604,7 +640,7 @@ Plugin:
 - Implemented workaround for issue where ad views are rendered in incorrect
 position.
 - Resolved compatibility issues with Gradle 4.
-- Resovled comnpatilbity issues with older versions of Xcode.
+- Resolved comnpatilbity issues with older versions of Xcode.
 
 Mediation packages:
 - Added API for video ad volume control.
@@ -734,7 +770,7 @@ Version 3.3.0
 - Fix issue were ads larger than 320dp could not be rendered.
 - Fix incorrect positioning of ads in iOS for ad position BOTTOM.
 - Add rewarded video test ad units to HelloWorld sample app.
-- Suppress warnings for unsed dummy ad events.
+- Suppress warnings for unused placeholder ad events.
 
 Built and tested with:
 - Google Play services 10.2.0
