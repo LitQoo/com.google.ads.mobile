@@ -1,36 +1,4 @@
 <SKAdNetworkItems>
-  <!--unityads -->
-  <SKAdNetworkIdentifier>f73kdq92p3.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>5tjdwbrq8w.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>glqzh8vgby.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>m8dbw4sv7c.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>294l99pt4k.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>5lm9lj6jb7.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>tl55sbb4fm.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>w9q455wk68.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>zmvfpc5aq8.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>mp6xlyr22a.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>22mmun2rn5.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>f7s53z58qe.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>k674qkevps.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>v79kvwwj4g.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>wg4vff78zm.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>238da6jt44.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>488r3q3dtq.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>4w7y6s5ca2.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>32z4fx6l9h.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>44jx6755aq.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>x44k69ngh6.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>lr83yxwka7.skadnetwork</SKAdNetworkIdentifier>
-
-  <!--facebook-->
-  <SKAdNetworkIdentifier>v9wttpbfk9.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>n38lu8286q.skadnetwork</SKAdNetworkIdentifier>
-
-  <!--pangle-->
-  <SKAdNetworkIdentifier>238da6jt44.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>22mmun2rn5.skadnetwork</SKAdNetworkIdentifier>
-
   <!-- Google -->
   <SKAdNetworkIdentifier>cstr6suwn9.skadnetwork</SKAdNetworkIdentifier>
 
@@ -45,37 +13,40 @@
   <SKAdNetworkIdentifier>v72qych5uu.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>ludvb6z3bs.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>cp8zw746q7.skadnetwork</SKAdNetworkIdentifier>
+  <SKAdNetworkIdentifier>3sh42y64q3.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>c6k4g5qg8m.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>s39g8k73mm.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>3qy4746246.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>3sh42y64q3.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>f38h382jlk.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>hs6bdukanm.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>prcb7njmu6.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>v4nxqhlyqp.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>wzmmz9fp6w.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>yclnxrl5pm.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>t38b2kh725.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>7ug5zh24hu.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>9rd848q2bz.skadnetwork</SKAdNetworkIdentifier>
+  <SKAdNetworkIdentifier>gta9lk7p23.skadnetwork</SKAdNetworkIdentifier>
+  <SKAdNetworkIdentifier>vutu7akeur.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>y5ghdn5j9k.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>n6fk4nfna4.skadnetwork</SKAdNetworkIdentifier>
+  <SKAdNetworkIdentifier>v9wttpbfk9.skadnetwork</SKAdNetworkIdentifier>
+  <SKAdNetworkIdentifier>n38lu8286q.skadnetwork</SKAdNetworkIdentifier>
+  <SKAdNetworkIdentifier>47vhws6wlr.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>kbd757ywx3.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>9t245vhmpl.skadnetwork</SKAdNetworkIdentifier>
+  <SKAdNetworkIdentifier>eh6m2bh4zr.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>a2p9lx4jpn.skadnetwork</SKAdNetworkIdentifier>
+  <SKAdNetworkIdentifier>22mmun2rn5.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>4468km3ulz.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>2u9pt9hc89.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>8s468mfl3y.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>av6w8kgt66.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>klf5c3l5u5.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>ppxm28t8ap.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>424m5254lk.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>ecpz2srf59.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>uw77j35x4d.skadnetwork</SKAdNetworkIdentifier>
+  <SKAdNetworkIdentifier>pwa73g5rt2.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>mlmmfzh3r3.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>578prtvx9j.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>4dzt52r2t5.skadnetwork</SKAdNetworkIdentifier>
-  <SKAdNetworkIdentifier>gta9lk7p23.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>e5fvkxwrpn.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>8c4e2ghe7u.skadnetwork</SKAdNetworkIdentifier>
   <SKAdNetworkIdentifier>zq492l623r.skadnetwork</SKAdNetworkIdentifier>
